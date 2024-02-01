@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.single-app-con {
+  background-color: #dfe2e5;
+  margin: 10px;
+  border-radius: 8px;
+  padding: 20px;
+  width: 170px;
+}
+.no-dot {
+  list-style-type: none;
+}
+.icon {
+  height: 100px;
+  width: 100px;
+}
+.app-name {
+  color: #1e293b;
+  font-family: Bree Serif;
+  font-size: 18px;
+  text-align: center;
+}
